@@ -1,3 +1,22 @@
+# VUECli (3.5.1) + Laravel (5.8) starter package
+## Installation
+In core folder:
+ > composer install 
+ 
+Fill in .env DB vars (comments in file)
+## Usage
+In core folder:
+ > php artisan serve
+
+In ./frontend folder:
+ > npm run serve
+localhost:8080 is your development link
+
+When done, build all files to laravel as static content:
+ > npm run build
+(obviously localhost:8000 becomes compiled variant)
+## Write me if some troubles, first open-sorce package tbh xD
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
