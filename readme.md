@@ -3,6 +3,9 @@
 In core folder:
  > composer install 
  
+In frontend folder:
+ > npm i
+ 
 Fill in .env DB vars (comments in file)
 ## Usage
 In core folder:
